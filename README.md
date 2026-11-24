@@ -1,5 +1,11 @@
 # Investment App for a Committee Adoption
 
+## AI Policy Compliance
+
+- AI is required and expected for this project.
+- Both Claude Code and ChatGPT (Codex) were used to assist in writing, debugging, and testing code. The AI-use record is included in `docs/validation-and-ai-use.md`.
+- The Locked Changed-Input Record prediction was written before running the app with AI closed. The app was run with AI closed as well.
+
 ## Repository Content
 
 - Repository root: Contains `portfolio.py`, `analysis.py`, `app.py`, `run_baseline.py`, `requirements.txt`, and this README.
@@ -72,12 +78,6 @@ Run these commands in PowerShell. Git and Python 3.10 or newer must be installed
 - Long-only and fully invested with at least 3% invested in BIL or IEF.
 - 90% of the portfolio must be liquid within five days.
 - The calendar-year loss limit is undefined, requiring CIO clarification, so it is never marked as pass.
-
-## AI Policy Compliance
-
-- AI is required and expected for this project.
-- Both Claude Code and ChatGPT (Codex) were used to assist in writing, debugging, and testing code. The AI-use record is included in `docs/validation-and-ai-use.md`.
-- The Locked Changed-Input Record prediction was written before running the app with AI closed. The app was run with AI closed as well.
 
 ## Known Gaps
 
