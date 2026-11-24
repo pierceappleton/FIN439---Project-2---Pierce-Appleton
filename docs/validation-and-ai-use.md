@@ -51,7 +51,7 @@ Each report varies the price window, each asset's return estimate by ±1 point, 
 | *Constrained min-vol* | *Before (1.00%)* | *After (1.50%)* |
 | ----- | ----- | ----- |
 | Weights BIL / IEF / LQD / VT (%) | 65 / 0 / 0 / 35 | 60 / 0 / 0 / 40 |
-| Net return | 8.92% | 9.22% |
+| Net return | 8.42% | 9.22% |
 | Volatility | 4.12% | 4.70% |
 | Mandate | PASS | PASS |
 
