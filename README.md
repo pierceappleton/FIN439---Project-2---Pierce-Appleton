@@ -15,8 +15,8 @@ Run these commands in PowerShell. Git and Python 3.10 or newer must be installed
 1. Clone the repository into a directory where you have write permissions, then enter the repository folder:
 
    ```powershell
-   git clone https://github.com/pierceappleton/FIN439-Project-2.git
-   cd FIN439-Project-2
+   git clone https://github.com/pierceappleton/FIN439---Project-2---Pierce-Appleton.git
+   cd FIN439---Project-2---Pierce-Appleton
    ```
 
 2. Create the virtual environment:
