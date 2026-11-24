@@ -2,6 +2,15 @@
 
 **Education, not investment advice.**
 
+## AI-use record
+
+Every AI output was reviewed by me and occasionally cross-referenced with the other AI models used (Codex/Claude Code).
+
+| *Tool* | *Use* |
+| ----- | ----- |
+| Claude Code | Helped scaffold the original code and drafts, which I subsequently reviewed, and described what the prediction record should contain. |
+| ChatGPT (Codex) | Helped revise the stress code, reports, tests, memo, and disclosure, and compared the rerun results with the locked prediction. I checked the dated GS10 value against ALFRED. ChatGPT was used to review my completed repository against the Project 2 rubric prior to submission.|
+
 The analysis and the decision are mine.
 
 **To:** Meridian Foundation Investment Committee and Chief Investment Officer (CIO)
