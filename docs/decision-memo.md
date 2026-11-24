@@ -22,7 +22,7 @@ For the paper pilot, use **60%–85% BIL and 15%–40% VT**, paired to sum to 10
 
 The baseline uses 59 monthly returns from prices labeled October 2021 to September 2026, a 6.50% objective, a 3% reserve minimum, and zero modeled costs. Its 6.61% estimated return uses arithmetic annualization, and the gross compounded historical illustration is 6.63% annualized with monthly weight resets, whereas live allocations would rebalance annually.
 
-Switching to the last 36 months under baseline assumptions creates a domino effect that moves 25 points from VT to BIL and triggers the stop rule. At the locked 8.50% objective and 1% reserve minimum, switching from the last 36 months to all months causes a 45-point shift at [suspicious link removed] and a 50-point shift at [suspicious link removed]. In the baseline, a 0.50-point cost increase moves 10 points into VT, and a one-point VT estimate change moves five points.
+Switching to the last 36 months under baseline assumptions creates a domino effect that moves 25 points from VT to BIL and triggers the stop rule. At the locked 8.50% objective and 1% reserve minimum, switching from the last 36 months to all months causes a 45-point shift at [1.00% cost](../output/changed-input-before-cost-1.00.md) and a 50-point shift at [1.50% cost](../output/changed-input-after-cost-1.50.md). In the baseline, a 0.50-point cost increase moves 10 points into VT, and a one-point VT estimate change moves five points.
 
 ## Monitoring and reversal
 
